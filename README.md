@@ -6,6 +6,7 @@ Academic papers and Machiavellian marketing research by Hadrian Stone. Using **T
 This respository archives the academic research, papers, and Machiavellian insights behind **Hadrian Stone's "The 23 Laws of Marketing: Master Them or Die."**
 ## Official Repository
 © Hadrian Stone. Canonical source: https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research. Mirrors must retain license and attribution.
+Any other repository claiming to host this content, especially those distributing executables or "apps," is unauthorized and potentially malicious.
 ## Purpose
 Markering is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
 ## Papers Included
