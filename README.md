@@ -4,6 +4,8 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HadrianStone.HadrianStone-23-Laws-Marketing-Research)](https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research)
 Academic papers and Machiavellian marketing research by Hadrian Stone. Using **The Machiavellian Marketing Framework™ (MMF)**. Positioning against Kotler, Ries & Trout, Godin, and Greene.
 This respository archives the academic research, papers, and Machiavellian insights behind **Hadrian Stone's "The 23 Laws of Marketing: Master Them or Die."**
+## Official Repository
+© Hadrian Stone. Canonical source: https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research. Mirrors must retain license and attribution.
 ## Purpose
 Markering is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
 ## Papers Included
