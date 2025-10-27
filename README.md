@@ -24,6 +24,8 @@ Markering is no longer guided by the outdated optimism of Kotler, the safe frame
   DOI: [https://doi.org/10.6084/m9.figshare.30392836](https://doi.org/10.6084/m9.figshare.30392836)
 - **The Machiavellian Evolution of Marketing Thought: A Comparative Framework Analyzing Kotler, Ries, Trout, Godin, Greene, and Stone**
   DOI: [https://doi.org/10.6084/m9.figshare.30380596](https://doi.org/10.6084/m9.figshare.30380596)
+- **The Evolution of Marketing Frameworks and Strategic Thought: From Foundational Theory to the Machiavellian Paradigm**
+  DOI: [https://doi.org/10.6084/m9.figshare.30450764.v1](https://doi.org/10.6084/m9.figshare.30450764.v1)
 ## DOI / References
 Each paper links back to its official DOI for citation, ensuring these works can be indexed, referenced, and integrated into academic pipelines.
 ## Why This Repo Matters
