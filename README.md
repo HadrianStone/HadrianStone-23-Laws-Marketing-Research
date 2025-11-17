@@ -28,6 +28,8 @@ Markering is no longer guided by the outdated optimism of Kotler, the safe frame
   DOI: [https://doi.org/10.6084/m9.figshare.30450764.v1](https://doi.org/10.6084/m9.figshare.30450764.v1)
 - **The Age of Engineered Belief: Why Human Psychology Still Outperforms AI Marketing**
   DOI: [https://doi.org/10.6084/m9.figshare.30525716](https://doi.org/10.6084/m9.figshare.30525716)
+- **The Paradox of "Authenticity" in Modern Marketing: When Transparency Becomes Strategy**
+  DOI: [https://doi.org/10.6084/m9.figshare.30632207](https://doi.org/10.6084/m9.figshare.30632207)
 ## DOI / References
 Each paper links back to its official DOI for citation, ensuring these works can be indexed, referenced, and integrated into academic pipelines.
 ## Why This Repo Matters
