@@ -8,7 +8,7 @@ This respository archives the academic research, papers, and Machiavellian insig
 © Hadrian Stone. Canonical source: https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research. Mirrors must retain license and attribution.
 Any other repository claiming to host this content, especially those distributing executables or "apps," is unauthorized and potentially malicious.
 ## Purpose
-Markering is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
+Marketing is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
 ## Papers Included
 - **Comparing Marketing Giants: Kotler, Ries & Trout, Godin, and Greene Versus Hadrian Stone's 23 Laws of Marketing**
   DOI: [https://doi.org/10.6084/m9.figshare.30261061](https://doi.org/10.6084/m9.figshare.30261061)
