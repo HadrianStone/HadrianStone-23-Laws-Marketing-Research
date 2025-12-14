@@ -40,7 +40,7 @@ If you use or reference this work, please cite: Stone, H. (2025). *The 23 Laws o
 ## Keywords
 Marketing Strategy, Machiavelli, Philip Kotler, Al Ries & Jack Trout, Seth Godin, Robert Greene, The 48 Laws of Power, The 22 Immutable Laws of Marketing, Purple Cow, Dark Marketing Strategy, Hadrian Stone, The 23 Laws of Marketing: Master Them or Die, Consumer Behavior, Business, Entrepreneur, Academic Research, Modern Marketing, Digital Marketing, Content Marketing, Economics, Marketing Books, Best Marketing Books, Marketing Theory, Influence, Manipulation, Persuasion, Positioning, Scarcity, Marketing Philosophy, AI in Marketing, Attention Economy, Marketing Psychology, Entrepreneurship, Machiavellian Marketing Framework™, MMF
 ## Website
-https://nofacetoolsai.super.site
+https://hadrianstone.super.site
 ## Media & Press
 - **Medium Articles** [https://medium.com/@nofacetoolsai]
 - **HackerNoon Features** [https://hackernoon.com/u/nofacetoolsai]
